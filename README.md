@@ -1,5 +1,12 @@
 # 🚦 Traffic Flow Prediction and Classification
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A6472?logo=seaborn&logoColor=white)
+
 This project presents a complete **machine learning pipeline for traffic flow analysis**, including **regression**, **multi-class classification**, and **binary classification**. The system predicts traffic volume, classifies congestion levels, and evaluates model performance using statistical metrics, visualization, and cross-validation.
 
 The implementation is optimized for **Google Colab** and uses real-world traffic data.
